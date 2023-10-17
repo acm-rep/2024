@@ -17,7 +17,7 @@ main:
     weight: 20
   - name: Register
     parent: participate
-    url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
+    # url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
     weight: 30
   - name: Sponsor
     parent: participate
@@ -51,19 +51,19 @@ main:
     weight: 30
   - name: Agenda
     parent: program
-    url: https://docs.google.com/document/d/1FIeUcsjyf3JVr64sj8gWoDJrNc6C0467Q0VPKKj2Ux4/edit?usp=sharing
+    # url: https://docs.google.com/document/d/1FIeUcsjyf3JVr64sj8gWoDJrNc6C0467Q0VPKKj2Ux4/edit?usp=sharing
     weight: 10
   - name: Featured Keynote Speakers
     parent: program
     url: keynotes
     weight: 20
-  - name: Proceedings
-    parent: program
-    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
-    weight: 30
-  - name: Conference Summary
-    parent: program
-    url: https://acm-rep.github.io/post/20230714-acmrep23/
+#  - name: Proceedings
+#    parent: program
+#    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
+#    weight: 30
+#  - name: Conference Summary
+#    parent: program
+#    url: https://acm-rep.github.io/post/20230714-acmrep23/
   #- name: Contact Us
   #  url: contact
   #  weight: 40
