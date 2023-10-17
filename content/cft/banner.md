@@ -12,7 +12,7 @@ active: true
 design:
   columns: '1'
   background:
-    image: background.png
+    image: background.jpg
     image_darken: 0.4
     image_parallax: false
     image_position: center
