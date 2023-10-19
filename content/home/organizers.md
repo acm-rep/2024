@@ -13,8 +13,8 @@ active: true
 -->
 
 ### General Chairs
-Tanu Malik (DePaul University)  
 Jay Lofstead (Sandia National Laboratories)  
+Tanu Malik (DePaul University)  
 
 ### Program Chairs
 TBD  
@@ -23,8 +23,8 @@ TBD
 TBD 
 
 ### Local Arrangements
-Arnaud Legrand (CNRS)
-Camille Maumet (INRIA)
+Arnaud Legrand (CNRS)  
+Camille Maumet (INRIA)  
   
 
 ### Proceedings
@@ -34,7 +34,7 @@ TBD
 TBD  
 
 ### Website
-Carlos Maltzahn (UC Santa Cruz)
+Carlos Maltzahn (UC Santa Cruz)  
 
 ### Sponsorship
 TBD

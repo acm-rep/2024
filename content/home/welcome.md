@@ -26,6 +26,6 @@ design:
 advanced:
   css_class: 
 ---
-**Contact**: [TBD](mailto:group@example.com)
+**Contact**: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)
 
 
