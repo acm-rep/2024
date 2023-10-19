@@ -20,15 +20,21 @@ Jay Lofstead (Sandia National Laboratories)
 TBD  
 
 ### Tutorial Chair
-TBD  
+TBD 
 
 ### Local Arrangements
+Arnaud Legrand (CNRS)
 Camille Maumet (INRIA)
   
 
 ### Proceedings
 TBD
 
-### Public Relations
+### Publicity
 TBD  
 
+### Website
+Carlos Maltzahn (UC Santa Cruz)
+
+### Sponsorship
+TBD
