@@ -17,7 +17,8 @@ Jay Lofstead (Sandia National Laboratories)
 Tanu Malik (DePaul University)  
 
 ### Program Chairs
-TBD  
+Ignacio Laguna (Lawrence Livermore National Laboratory)  
+Victoria Stodden (University of Southern California)
 
 ### Tutorial Chair
 TBD 
