@@ -26,9 +26,9 @@ TBD
 ### Local Arrangements
 Arnaud Legrand (CNRS)  
 Camille Maumet (INRIA)  
-Matthieu Simonin (INRIA)
-Anne-Cécile Orgerie (CNRS)
-Edith Blin (INRIA)
+Matthieu Simonin (INRIA)  
+Anne-Cécile Orgerie (CNRS)  
+Edith Blin (INRIA)  
 
 ### Proceedings
 TBD
