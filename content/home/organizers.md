@@ -18,10 +18,10 @@ Tanu Malik (DePaul University)
 
 ### Program Chairs
 Ignacio Laguna (Lawrence Livermore National Laboratory)  
-Victoria Stodden (University of Southern California)
+Victoria Stodden (University of Southern California)  
 
 ### Tutorial Chair
-TBD 
+Reed Milewicz  (Sandia National Laboratories)  
 
 ### Local Arrangements
 Arnaud Legrand (CNRS)  
@@ -31,7 +31,7 @@ Anne-Cécile Orgerie (CNRS)
 Edith Blin (INRIA)  
 
 ### Proceedings
-TBD
+TBD  
 
 ### Publicity
 TBD  
@@ -40,4 +40,4 @@ TBD
 Carlos Maltzahn (UC Santa Cruz)  
 
 ### Sponsorship
-TBD
+TBD  
