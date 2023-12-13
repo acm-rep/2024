@@ -41,15 +41,15 @@ If an ACM-REP participant engages in prohibited behavior, the conference committ
 
 ## How to Report Unacceptable Behavior
 
-In the event of unacceptable behavior, participants may wish to inform a person in authority. During ACM REP, participants should reach out to one of the General or Program Chairs (see list below).  These individuals can provide information about the process for handling complaints or handling immediate onsite needs. 
+In the event of unacceptable behavior, participants may wish to inform a person in authority. During ACM REP, participants should reach out to one of the General, Program, or Tutorial Chairs (see list below).  These individuals can provide information about the process for handling complaints or handling immediate onsite needs. 
 
 {{% callout note %}}
 There may be cases (such as those involving Title IX issues in the United States and venue- or employer-specific policies) where an on-site person who is informed of harassment will be required to file a complaint.
 {{% /callout %}}
 
 General Chairs: Tanu Malik & Jay Lofstead  
-Program Chairs: Ignacio Laguna & Victoria Stodden 
-Tutorial Chair: Reed Milewicz
+Program Chairs: Ignacio Laguna & Victoria Stodden  
+Tutorial Chair: Reed Milewicz  
 Contact: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)  
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
