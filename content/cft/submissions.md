@@ -43,8 +43,8 @@ All submitted tutorial proposals will be evaluated based on the following criter
 - the value of any materials released with the tutorial for the community;
 background/experience of tutorial instructor(s) in teaching the target topics.
 
-### Tutorial Chair=
-Reed Milewicz (Sandia National Laboratories)
+### Tutorial Chair
+Reed Milewicz (Sandia National Laboratories)  
 
 ### Contact Information
 For questions and more details, please contact the tutorial organizer at [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu).
