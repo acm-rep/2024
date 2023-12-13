@@ -11,7 +11,8 @@ design:
 ---
 
 ### Program Chairs
-TBD
+Ignacio Laguna (Lawrence Livermore National Laboratory)  
+Victoria Stodden (University of Southern California)  
 
 ### Program Committee
 
