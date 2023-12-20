@@ -7,13 +7,13 @@ main:
   - name: Participate
     identifier: participate
     weight: 10
-  - name: Call for Tutorials
-    parent: participate
-    url: cft
-    weight: 10
   - name: Call for Papers
     parent: participate
     url: cfp
+    weight: 10
+  - name: Call for Tutorials
+    parent: participate
+    url: cft
     weight: 20
   - name: Register
     parent: participate
