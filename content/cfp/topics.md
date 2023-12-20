@@ -23,6 +23,7 @@ Topics of interest include, but are not limited to, the following as they relate
 - Reproducibility-aware computational infrastructure.
 - Experiment discoverability for re-use.
 - Approaches for advancing reproducibility.
+- Numerical results reproducibility, Statistical reproducibility
 
 ### Reproducibility Experiences
 - Experience of sharing and consuming reproducible artifacts. 
