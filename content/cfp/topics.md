@@ -11,7 +11,7 @@ ACM REP '24 invites submissions in several categories as described below with fo
 
 Topics of interest include, but are not limited to, the following as they relate to various aspects of reproducibility and replicability. 
 
-### Reproducibility Concepts 
+### Computational Reproducibility Concepts 
 - Experiment dependency management.
 - Experiment portability for code, performance, and related metrics.
 - Software and artifact packaging and container-related reproducibility methods. 
@@ -25,7 +25,7 @@ Topics of interest include, but are not limited to, the following as they relate
 - Approaches for advancing reproducibility.
 - Numerical results reproducibility, Statistical reproducibility
 
-### Reproducibility Experiences
+### Computational Reproducibility Experiences
 - Experience of sharing and consuming reproducible artifacts. 
 - Conference-scale artifact evaluation experiences and practices.
 - Experiences as part of hackathons and summer programs.
