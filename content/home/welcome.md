@@ -26,6 +26,12 @@ design:
 advanced:
   css_class: 
 ---
+<center>
+
+{{% figure src="UNIRENNES_LOGOblanc.png" width="20%" %}}
+
+</center>
+
 **Contact**: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)
 
 
