@@ -30,7 +30,7 @@ Papers must be submitted in PDF format according to the ACM template published i
 
 ### Submission Site
 
-The conference submission site is https://acm-rep24.hotcrp.com
+The conference submission site is TBD
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep24.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="/submit/" cta_new_tab="false" >}}
 

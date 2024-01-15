@@ -29,7 +29,7 @@ advanced:
 
 The 2024 ACM Conference on Reproducibility and Replicability (ACM REP '24) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The first-of-its-kind conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites original research contributions and practical system designs, implementations and evaluations on several topics relating to reproducibility and replicability. The ACM REP program will consist of peer-reviewed articles, invited talks, panels, and posters, and demonstrations. 
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep24.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="/submit/" cta_new_tab="false" >}}
 
 We are using the following definitions of reproducibility and replicability as presented in the National Academies of Science, Engineering and Medicine report ["Reproducibility and Replication in Science"](https://doi.org/10.17226/25303) ([overview](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science)):
 
