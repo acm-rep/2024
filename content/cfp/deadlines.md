@@ -14,4 +14,4 @@ active: true
 <span style=color:black>Camera-ready copy:  May 24, 2024</span>  
 Conference:  June 18-20, 2024  
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep24.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="/submit/" cta_new_tab="false" >}}
