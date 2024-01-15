@@ -34,7 +34,7 @@ Edith Blin (INRIA)
 TBD  
 
 ### Publicity
-TBD  
+Adrian Jackson (University of Edinburgh)
 
 ### Website
 Carlos Maltzahn (UC Santa Cruz)  
