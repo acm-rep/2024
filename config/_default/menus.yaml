@@ -30,10 +30,6 @@ main:
     parent: attend
     url: venue
     weight: 3
-  - name: Housing
-    parent: attend
-    url: housing
-    weight: 5
   - name: Health & Safety
     parent: attend
     url: health
