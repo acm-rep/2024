@@ -16,4 +16,4 @@ Victoria Stodden (University of Southern California)
 
 ### Program Committee
 
-{{< table path="../home/pc.csv" header="false" caption="" >}}
+{{< table path="../home/pc.csv" header="true" caption="" >}}
