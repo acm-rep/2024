@@ -30,7 +30,7 @@ Papers must be submitted in PDF format according to the ACM template published i
 
 ### Submission Site
 
-The conference submission site is TBD
+The conference submission site is at [easychair.org/conferences/?conf=acmrep24](https://easychair.org/conferences/?conf=acmrep24).
 
-{{< cta cta_text="Submit -->" cta_link="/submit/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
 
