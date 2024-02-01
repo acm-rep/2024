@@ -31,7 +31,7 @@ Anne-Cécile Orgerie (CNRS)
 Edith Blin (INRIA)  
 
 ### Proceedings
-TBD  
+Philippe Bonnet (University of Copenhagen)  
 
 ### Publicity
 Adrian Jackson (University of Edinburgh)
