@@ -29,6 +29,9 @@ advanced:
 <center>
 
 {{% figure src="UNIRENNES_LOGOblanc.png" width="20%" %}}
+{{% figure src="inr_logo_blanc.png" width="15%" %}}
+{{% figure src="RENNES Métropole_blanc.png" width="12%" %}}
+{{% figure src="RB_NB.gif" width="8%" %}}
 
 </center>
 
