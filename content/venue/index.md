@@ -50,7 +50,7 @@ sections:
     content:
       title: "Inria Rennes Convention Center"
       text: |-
-        ![Inria Rennes Convention Center](CRI_Rennes.jpg)
+        ![Inria Rennes Convention Center](CentreInriaRennes.png)
         The ACM REP Conference will take place in the Inria Convention Center, in the Beaulieu Campus Area. You can reach the campus or with the metro line B (Beaulieu Unviersité station +15 mins walk to reach the convention center) or with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk).
         ![Map](map.png)
     design:
