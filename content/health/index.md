@@ -6,7 +6,7 @@ title: "Health & Safety"
 Under construction -- Will be completed soon.
 {{% /callout %}}
 
-We are delighted to welcome attendees to our meeting at INRIA, Rennes University, while also acknowledging continued concerns about the spread of COVID and other health and safety issues. Our team is monitoring the latest guidance and regulations, and our policies align with public health orders. We will follow venue and local regulations regarding masking, distancing, and related health measures.  
+We are delighted to welcome attendees to our meeting at Inria, Rennes University, while also acknowledging continued concerns about the spread of COVID and other health and safety issues. Our team is monitoring the latest guidance and regulations, and our policies align with public health orders. We will follow venue and local regulations regarding masking, distancing, and related health measures.  
 
 Proof of COVID-19 vaccinations or a recent negative COVID-19 test result is currently not required for this event. However, If you are feeling sick or test positive for COVID, do not attend the meeting. We are relying on the responsible behavior of our attendees. We encourage but do not require the wearing of masks by attendees. Masks will be made available at the conference venue. Note that for all hospitality related activities, attendees will have the option to eat meals or partake in coffee breaks outdoors if they desire.  
 
