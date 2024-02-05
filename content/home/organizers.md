@@ -25,10 +25,10 @@ Reed Milewicz  (Sandia National Laboratories)
 
 ### Local Arrangements
 Arnaud Legrand (CNRS)  
-Camille Maumet (INRIA)  
-Matthieu Simonin (INRIA)  
+Camille Maumet (Inria)  
+Matthieu Simonin (Inria)  
 Anne-Cécile Orgerie (CNRS)  
-Edith Blin (INRIA)  
+Edith Blin (Inria)  
 
 ### Proceedings
 Philippe Bonnet (University of Copenhagen)  
