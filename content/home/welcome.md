@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: 2024 ACM Conference on Reproducibility and Replicability
 subtitle: |
   June 18-20, 2024  
-  INRIA | Rennes, France | \#acmrep  
+  Inria | Rennes, France | \#acmrep  
   This is a *hybrid event* -- remote participation is welcome.
 active: true
 design:
