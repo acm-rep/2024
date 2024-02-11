@@ -26,7 +26,7 @@ sections:
 
         {{< table path="benefits.csv" header="true" caption="" >}}
 
-        If your organization is interested in sponsoring, please contact [TBD](mailto:group@example.com). 
+        If your organization is interested in sponsoring, please contact [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu). 
     design:
       columns: '2'
 ---
