@@ -12,6 +12,7 @@ active: true
 <span style=color:black>Revise and Resubmit: April 5, 2024</span>  
 <span style=color:black>Notification of acceptance:  May 3, 2024</span>  
 <span style=color:black>Camera-ready copy:  May 24, 2024</span>  
+Registration closes: June 3, 2024
 Conference:  June 18-20, 2024  
 
 {{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
