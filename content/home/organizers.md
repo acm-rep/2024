@@ -20,8 +20,9 @@ Tanu Malik (DePaul University)
 Ignacio Laguna (Lawrence Livermore National Laboratory)  
 Victoria Stodden (University of Southern California)  
 
-### Tutorial Chair
+### Tutorial Chairs
 Reed Milewicz  (Sandia National Laboratories)  
+Line Pouchard (Brookhaven National Laboratory)  
 
 ### Local Arrangements
 Arnaud Legrand (CNRS)  

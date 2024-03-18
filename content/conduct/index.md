@@ -49,7 +49,7 @@ There may be cases (such as those involving Title IX issues in the United States
 
 General Chairs: Tanu Malik & Jay Lofstead  
 Program Chairs: Ignacio Laguna & Victoria Stodden  
-Tutorial Chair: Reed Milewicz  
+Tutorial Chairs: Reed Milewicz & Line Pouchard  
 Contact: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)  
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
