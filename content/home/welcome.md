@@ -15,7 +15,7 @@ active: true
 design:
   columns: '1'
   background:
-    image: inriaBuilding.jpg
+    image: CentreInriaRennes.png
     image_darken: 0.4
     image_parallax: false
     image_position: center
