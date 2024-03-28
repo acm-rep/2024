@@ -8,8 +8,8 @@ active: true
 ---
 
 <span style=color:grey>Paper submission (Long and Short): ~~January 29~~ February ~~12~~ 16, 2024, 23:59 AOE</span>  
-<span style=color:blue;font-weight:bold>First response to authors: March 22, 2024</span>  
-Revise and Resubmit: April 5, 2024  
+<span style=color:grey>First response to authors: March 22, 2024</span>  
+<span style=color:blue;font-weight:bold>Revise and Resubmit: April 5, 2024</span>  
 Notification of acceptance:  May 3, 2024  
 Camera-ready copy:  May 24, 2024  
 Registration closed: June 3, 2024  
