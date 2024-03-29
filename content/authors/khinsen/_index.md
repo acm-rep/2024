@@ -44,9 +44,11 @@ social:
 user_groups:
 - Keynote Speaker
 ---
+<!--
 **Title:** TBD.
 
 **Abstract:** TBD.
+-->
 
 **Bio:** I am a researcher at the [CNRS](https://www.cnrs.fr/) (Centre National de la Recherche Scientifique). I work at the Centre de Biophysique Moléculaire in Orléans and as an associate researcher at the Synchrotron SOLEIL.   
 

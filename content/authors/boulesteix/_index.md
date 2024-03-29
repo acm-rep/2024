@@ -44,9 +44,11 @@ social:
 user_groups:
 - Keynote Speaker
 ---
+<!-- 
 **Title:** TBD.
 
 **Abstract:** TBD.
+-->
 
 **Bio:** I am associate professor for Computational Molecular Medicine at the Department of Medical Informatics, Biometry and Epidemiology.  
 
