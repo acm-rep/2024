@@ -27,7 +27,7 @@ advanced:
   css_class: 
 ---
 
-{{% cta cta_link="keynotes" cta_text="Keynote Speakers" %}}
+{{% cta cta_link="/2024/keynotes" cta_text="Keynote Speakers" %}}
 
 <center>
 
