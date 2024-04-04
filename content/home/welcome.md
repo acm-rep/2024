@@ -26,6 +26,9 @@ design:
 advanced:
   css_class: 
 ---
+
+{{% cta cta_link="/keynotes/" cta_text="Keynote Speakers" %}}
+
 <center>
 
 {{% figure src="UNIRENNES_LOGOblanc.png" width="20%" %}}
