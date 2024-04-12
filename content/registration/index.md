@@ -6,5 +6,7 @@ Under construction -- Will be completed soon.
 {{% /callout %}}
 
 # Important Dates
-Registration opened: TBD  
-Registration closed: June 3, 2024  
+<span style=color:blue;font-weight:bold>Registration open: early May</span>  
+Early-bird registration close: May 19, 2024  
+Registration close: June 8, 2024  
+Conference:  June 18-20, 2024  
