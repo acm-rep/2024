@@ -8,9 +8,9 @@ active: true
 ---
 <span style=color:grey>Paper submission (Long and Short): ~~January 29~~ February ~~12~~ 16, 2024, 23:59 AOE</span>  
 <span style=color:blue;font-weight:bold>Notification of acceptance: May 3, 2024</span>  
-Registration opened: early May
-Early-bird registration closed: May 19, 2024  
-Registration closed: June 8, 2024  
+<span style=color:blue;font-weight:bold>Registration open: early May</span>  
+Early-bird registration close: May 19, 2024  
+Registration close: June 8, 2024  
 Conference:  June 18-20, 2024  
 
 
