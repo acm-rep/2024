@@ -11,6 +11,8 @@ To submit a 2-page extended abstract for a poster, please use [EasyChair submiss
 
 Posters selected for presentation at the conference must fit within an A0 portrait size.  
 
+{{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
+
 For questions, please contact Jay Lofstead ([gflofst@sandia.gov](mailto:gflofst@sandia.gov)).  
 
 We look forward to your submissions!  
