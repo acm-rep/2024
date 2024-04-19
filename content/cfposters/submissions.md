@@ -11,6 +11,10 @@ To submit a 2-page extended abstract for a poster, please use [EasyChair submiss
 
 Posters selected for presentation at the conference must fit within an A0 portrait size.  
 
+{{% callout info %}}
+Authors of accepted poster submissions are expected to give a short talk about their poster in a lightening talk session. Of these authors only those who attend in person will get poster space. Of those who are not able to attend in person will not be given poster space but will still be able to present a remote/prerecorded lightening talk.
+{{% /callout %}} 
+
 {{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
 
 For questions, please contact Jay Lofstead ([gflofst@sandia.gov](mailto:gflofst@sandia.gov)).  

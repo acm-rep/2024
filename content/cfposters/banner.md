@@ -24,7 +24,7 @@ advanced:
   css_class: 
 ---
 
-The ACM Conference on Reproducibility and Replicability is open for poster submissions. Each submission will consist of a 2-page extended abstract, including all content, following the ACM standard conference template. These 2-page abstracts will be reviewed for applicability and downselected for quality based on available poster space.
+The ACM Conference on Reproducibility and Replicability is open for poster submissions. Each submission will consist of a 2-page extended abstract, including all content, following the ACM standard conference template. These 2-page abstracts will be reviewed for applicability and downselected for quality based on available poster space. More details [here](#submissions).
 
 {{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
 
