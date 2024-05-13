@@ -12,7 +12,8 @@ sections:
       text: |-
         ![Rennes City images](rennes-city.png)
         The conference will take place at the Inria Conference Center in Rennes, 263 Av. Général Leclerc, 35000 Rennes. However, we recommend that you stay in the downtown area, the Inria Conference Center is easily reached by public transport from the downtown area (20-30 minutes). Follow this [link](https://www.tourisme-rennes.com/en/) for more information about the city, and touristic attractions.
-        ![Metro line map](transport-1.png) 
+        <!-- ![Metro line map](transport-1.png) -->
+        <iframe src="https://www.google.com/maps/d/embed?mid=10CxtQJrgPh6ub9aa-vdRq7UJ0x1oo24&ehbc=2E312F" width="640" height="480" style="border:none;"></iframe>
     design:
       columns: '2'
 
