@@ -1,9 +1,6 @@
 ---
 title: "Code of Conduct"
 ---
-{{% callout warning %}}
-Under construction -- Will be completed soon.
-{{% /callout %}}
 
 The steering committee of ACM REP '24 believes in respect, compassion, understanding and inclusion and we expect all community members to act in accordance with these values. Fostering the free exchange of ideas requires building a conference that welcomes people of all backgrounds. Diversity of opinion and background is a fundamental strength of our community. The members of our community must have the freedom to espouse and explore a wide range of ideas. Toward that goal, ACM REP '24 aims to create spaces where every participant can express themselves without fear of judgment or harassment.
 
@@ -44,7 +41,7 @@ If an ACM-REP participant engages in prohibited behavior, the conference committ
 In the event of unacceptable behavior, participants may wish to inform a person in authority. During ACM REP, participants should reach out to one of the General, Program, or Tutorial Chairs (see list below).  These individuals can provide information about the process for handling complaints or handling immediate onsite needs. 
 
 {{% callout note %}}
-There may be cases (such as those involving Title IX issues in the United States and venue- or employer-specific policies) where an on-site person who is informed of harassment will be required to file a complaint.
+There may be cases (such as those involving venue- or employer-specific policies) where an on-site person who is informed of harassment will be required to file a complaint.
 {{% /callout %}}
 
 General Chairs: Tanu Malik & Jay Lofstead  
@@ -53,3 +50,7 @@ Tutorial Chairs: Reed Milewicz & Line Pouchard
 Contact: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)  
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
+
+Please also review:  
+- [ACM Privacy Policy](https://www.acm.org/privacy-policy)  
+- [Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)  
