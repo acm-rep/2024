@@ -15,7 +15,7 @@ main:
     parent: participate
     url: cft
     weight: 20
-  - name: Call for Posters 🆕
+  - name: Call for Posters
     parent: participate
     url: cfposters
     weight: 25
