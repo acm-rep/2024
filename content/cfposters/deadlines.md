@@ -6,7 +6,7 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-<span style=color:blue;font-weight:bold>Poster submissions: May 3, 2024, 23:59 AOE</span>  
+<span style=color:grey>Poster submissions: May 3, 2024, 23:59 AOE</span>  
 Notification of acceptance: May 10, 2024</span>  
 <span style=color:blue;font-weight:bold>Registration open: early May</span>  
 Early-bird registration close: May 19, 2024  
