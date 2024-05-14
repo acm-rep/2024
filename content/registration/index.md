@@ -12,5 +12,5 @@ Registrations will be online only and will close on June 8, 2024. **On-site regi
 # Important Dates
 <span style=color:blue;font-weight:bold>Registration open: <s>early May</s> mid-May</span>  
 <span style=color:blue;font-weight:bold>Early-bird registration close: <s>May 19</s> May 31</span>  
-Registration close: June 8
+Registration close: June 8  
 Conference:  June 18-20, 2024  
