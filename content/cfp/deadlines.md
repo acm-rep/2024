@@ -11,9 +11,9 @@ active: true
 <span style=color:grey>First response to authors: March 22, 2024</span>  
 <span style=color:grey>Revise and Resubmit: April 5, 2024</span>  
 <span style=color:grey>Notification of acceptance:  May 3, 2024</span>  
-<span style=color:blue;font-weight:bold>Registration open: early May</span>  
-<span style=color:blue;font-weight:bold>Early-bird registration close: May 19, 2024</span>  
+<span style=color:blue;font-weight:bold>Registration open: May 17, 2024</span>  
 <span style=color:blue;font-weight:bold>Camera-ready copy:  May 24, 2024</span>  
+<span style=color:blue;font-weight:bold>Early-bird registration close: May 31, 2024</span>  
 Registration close: June 8, 2024  
 Conference:  June 18-20, 2024  
 
