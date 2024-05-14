@@ -2,7 +2,7 @@
 title: "Registration"
 ---
 {{% callout warning %}}
-We apologize for the delay and are working to open registration as soon as possible.
+We apologize for the delay and any incovenience caused. We are working hard to open registration as soon as possible.
 {{% /callout %}}
 
 {{% callout note %}}
