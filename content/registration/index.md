@@ -2,7 +2,7 @@
 title: "Registration"
 ---
 {{% callout warning %}}
-Under construction -- Will be completed soon.
+We apologize for the delay and are working to open registration as soon as possible.
 {{% /callout %}}
 
 {{% callout note %}}
