@@ -44,15 +44,15 @@ social:
 user_groups:
 - Keynote Speaker
 ---
-<!--
-**Title:** TBD.
 
-**Abstract:** TBD.
--->
+**Reproducibility and replicability of computer simulations**
 
-**Bio:** I am a researcher at the [CNRS](https://www.cnrs.fr/) (Centre National de la Recherche Scientifique). I work at the Centre de Biophysique Moléculaire in Orléans and as an associate researcher at the Synchrotron SOLEIL.   
+**Abstract:** Since the early days of the reproducibility crisis, much progress has been made in understanding and improving computational reproducibility and replicability (R&R). What have we accomplished so far, and what remains to be done? I will concentrate on the state of R&R in computer simulations, i.e. experiments on computational models, leaving aside the additional complications of dealing with observational data.
 
-My two main current fields of research are  
+The questions I will address include: Should computer simulations be
+made reproducible? Why? At what cost? To the last bit, or on a "good
+enough" basis? Can we ensure reproducibility without repeating lengthy computations? Is replicability more or less important than
+reproducibility in scientific practice? How replicable are computer
+simulations today? What are the obstacles to better replicability?
 
-- The structure and dynamics of proteins, using molecular simulation and statistical physics. Much of my work is method development, in particular in the field of Elastic Network Models.  
-- The methodology of computational science, in particular concerning reproducibility and digital scientific notations in the context of the Open Science movement.  
+**Bio:** Konrad Hinsen is a CNRS researcher at the Centre de Biophysique Moléculaire in Orléans and at the Synchrotron SOLEIL in Saint Aubin (France). His main field of research is computational biophysics, and in particular the structure and dynamics of proteins. A long-standing interest in improving the practices in computational science has lead him to research on scientific computing and to the development of software tools. In 1995, he was a co-founder of the Numerical Python project, which started the Scientific Python ecoystem inside which he then developed tools for molecular simulation. Today he is a contributor to the Guix project, focusing on its use in reproducible computations. He is also a co-author of two MOOCs on reproducible computational research, and a co-founder of the journal "ReScience C" that publishes replication work in computational science.  
