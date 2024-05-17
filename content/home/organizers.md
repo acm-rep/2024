@@ -24,12 +24,15 @@ Victoria Stodden (University of Southern California)
 Reed Milewicz  (Sandia National Laboratories)  
 Line Pouchard (Brookhaven National Laboratory)  
 
-### Local Arrangements
+### Local Arrangements Chairs
 Arnaud Legrand (CNRS)  
 Camille Maumet (Inria)  
+
+### Local Arrangements Team
 Matthieu Simonin (Inria)  
 Anne-Cécile Orgerie (CNRS)  
 Edith Blin (Inria)  
+Armelle Mozziconacci (CNRS)
 
 ### Proceedings
 Philippe Bonnet (University of Copenhagen)  
