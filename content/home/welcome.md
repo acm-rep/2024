@@ -27,6 +27,7 @@ advanced:
   css_class: 
 ---
 
+{{% cta cta_link="/2024/posters" cta_text="Poster Abstracts" %}}
 {{% cta cta_link="/2024/agenda" cta_text="Agenda" %}}
 {{% cta cta_link="/2024/keynotes" cta_text="Keynote Speakers" %}}
 
