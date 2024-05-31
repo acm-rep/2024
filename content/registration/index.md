@@ -25,7 +25,7 @@ Virtual registration includes: online access to all sessions and selected tutori
 
 # Important Dates
 <span style=color:blue;font-weight:bold>Registration open: <s>early May</s> mid-May</span>  
-<span style=color:blue;font-weight:bold>Early-bird registration close: <s>May 19</s> May 31</span>  
+<span style=color:blue;font-weight:bold>Early-bird registration close: <s>May 19</s> <s>May 31</s> June 8</span>  
 Registration close: June 8  
 Conference:  June 18-20, 2024  
 
