@@ -52,8 +52,40 @@ sections:
       title: "Inria Rennes Convention Center"
       text: |-
         ![Inria Rennes Convention Center](CentreInriaRennes.png)
-        The ACM REP Conference will take place in the Inria Convention Center, in the Beaulieu Campus Area. You can reach the campus or with the metro line B (Beaulieu Unviersité station +15 mins walk to reach the convention center) or with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk).
+        The ACM REP Conference will take place in the Inria Convention Center, in the Beaulieu Campus Area. You can reach the campus or with ~~the metro line B (Beaulieu Université station +15 mins walk to reach the convention center) or~~ with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk).
+
         ![Map](map.png)
+
+        {{% callout warning %}}
+        metro line B service is currently discontinued and will likely still be discontinued during the period of the conference.
+        {{% /callout %}}
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: moving-around
+    content:
+      title: "Public transportation"
+      text: |-
+
+        Moving around in Rennes using the public transportation or bike system
+        is a good option.  You'll find all the info on [the bus company](https://www.star.fr) - translation available at the bottom of the page.
+
+        In short:
+
+        - 1 single trip is 1.70€ (1h availability). You can hop on a bus and pay
+        using [a credit
+        card](https://www.star.fr/titres-et-tarifs/valider-par-carte-bancaire)
+        (CB/Visa/MasterCard are accepted) - no app required !
+        Buying tickets is also possible, you can refer to the [dedicated page](https://www.star.fr/titres-et-tarifs/trouver-mon-tarif) to see all the options.
+
+        - Biking is also a good option. Rennes offers many dedicated lanes to
+        bike. You can grab a bike in one of the docking stations and pay with your
+        credit card (CB/Visa/MasterCad). Base price is 1€ for 1h. More info on the [dedicated page](https://www.star.fr/se-deplacer/velo/velo-libre-service#lc:/bss).
+        
+        - Link to the [interactive map](https://www.star.fr/se-deplacer/plan-dynamique#lc:/bss)
+
+
     design:
       columns: '2'
 ---
