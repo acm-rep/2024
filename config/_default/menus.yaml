@@ -23,7 +23,7 @@ main:
     parent: participate
     url: registration
     weight: 30
-  - name: Sponsor
+  - name: Sponsorship
     parent: participate
     url: sponsor
     weight: 40
