@@ -38,7 +38,7 @@ sections:
   - block: markdown
     id: join-online
     content:
-      title: "Join onlin"
+      title: "Join online"
       text: |-
         All tutorials and sessions will be available to all participants, joining online or in-person. We will use [Webex](https://www.webex.com/) to host the presentations online. Although joining with your favorite internet browser is possible, we recommend that you use the [Webex application](https://www.webex.com/downloads.html).
 
