@@ -42,7 +42,7 @@ sections:
       text: |-
         All tutorials and sessions will be available to all participants, joining online or in-person. We will use [Webex](https://www.webex.com/) to host the presentations online. Although joining with your favorite internet browser is possible, we recommend that you use the [Webex application](https://www.webex.com/downloads.html).
 
-        On Wednesday June 19th, we invite you to join us from 12:30 on [Gather Town](https://app.gather.town/app/68IpnNyCP3bYfNrF/ACM-REP-2024) to meet between online and onsite participants as well as members of the steering and organizing committee.
+        On Wednesday June 19th, we invite you to join from 12:30 on [Gather Town](https://app.gather.town/app/68IpnNyCP3bYfNrF/ACM-REP-2024) to meet between online and onsite participants as well as members of the steering and organizing committee.
 
         Please visit the [Agenda page](https://acm-rep.github.io/2024/agenda/) to get all the online access links.
     design:
