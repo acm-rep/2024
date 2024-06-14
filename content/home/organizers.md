@@ -44,4 +44,11 @@ Adrian Jackson (University of Edinburgh)
 Carlos Maltzahn (UC Santa Cruz)  
 
 ### Sponsorship
-TBD  
+
+In alphabetical order:
+
+- Inria
+- Région Bretagne
+- Rennes Métropole
+- Université de Rennes
+- Sandia National Laboratories

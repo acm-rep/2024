@@ -1,20 +1,11 @@
 ---
-title: Sponsors
+title: Sponsorship
 date: 2023-10-16
 
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: Sponsors
-      text: |-
-        {{% callout warning %}}
-        Under construction -- Will be completed soon.
-        {{% /callout %}}
-    design:
-      columns: '2'
-
+  
   - block: markdown
     content:
       title: Sponsor Benefits

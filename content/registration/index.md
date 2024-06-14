@@ -23,6 +23,11 @@ In-person registration includes: access to all sessions and tutorials, breaks an
 
 Virtual registration includes: online access to all sessions and selected tutorials.
 
+A limited number of free registrations are available on request to attend the
+conference virtually. We particularly encourage people from underrepresented
+groups to contact us.
+
+
 # Important Dates
 <span style=color:blue;font-weight:bold>Registration open: <s>early May</s> mid-May</span>  
 <span style=color:blue;font-weight:bold>Early-bird registration close: <s>May 19</s> <s>May 31</s> June 8</span>  

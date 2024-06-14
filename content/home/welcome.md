@@ -27,20 +27,40 @@ advanced:
   css_class: 
 ---
 
+<style>
+  .totheleft {
+    height: auto;
+    float: left;
+    margin: 2%;
+    width: 13%;
+  }
+
+</style>
+
+
 {{% cta cta_link="/2024/posters" cta_text="Poster Abstracts" %}}
 {{% cta cta_link="/2024/agenda" cta_text="Agenda" %}}
 {{% cta cta_link="/2024/keynotes" cta_text="Keynote Speakers" %}}
 
 {{% cta cta_text="Register" cta_link="https://web.cvent.com/event/213c1224-ee5a-4cff-aff0-ef4b0df0441c/summary" cta_new_tab="false" %}}
 
-<center>
+<div style="width: 100%;  background-color: rgba(255, 255, 255, 0.1); height:300px; text-align: center">
 
-{{% figure src="UNIRENNES_LOGOblanc.png" width="20%" %}}
-{{% figure src="inr_logo_blanc.png" width="15%" %}}
-{{% figure src="RENNES Métropole_blanc.png" width="12%" %}}
-{{% figure src="RB_NB.gif" width="8%" %}}
+Sponsors
 
-</center>
+<table style="background-color: rgba(255, 255, 255, 0.1)">
+<tr>
+<td style="background-color: rgba(255, 255, 255, 0.1)" width="20%">{{% figure src="inr_logo_blanc.png"%}}</td>
+<td style="background-color: rgba(255, 255, 255, 0.1)" width="20%">{{% figure src="RB_NB.gif" %}}</td>
+<td style="background-color: rgba(255, 255, 255, 0.1)" width="20%">{{% figure src="RENNES Métropole_blanc.png" %}}</td>
+<td style="background-color: rgba(255, 255, 255, 0.1)" width="20%">{{% figure src="UNIRENNES_LOGOblanc.png"%}}</td>
+<td style="background-color: rgba(255, 255, 255, 0.1)" width="20%">{{% figure src="Sandia_National_Laboratories_logo.svg" %}}</td>
+</tr>
+</table>
+
+
+</div>
+
 
 **Contact**: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)
 
