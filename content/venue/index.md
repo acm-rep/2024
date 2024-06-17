@@ -11,9 +11,65 @@ sections:
       title: "Rennes City, France"
       text: |-
         ![Rennes City images](rennes-city.png)
-        The conference will take place at the Inria Conference Center in Rennes, 263 Av. Général Leclerc, 35000 Rennes. However, we recommend that you stay in the downtown area, the Inria Conference Center is easily reached by public transport from the downtown area (20-30 minutes). Follow this [link](https://www.tourisme-rennes.com/en/) for more information about the city, and touristic attractions.
+        The ACM REP conference will take place at the Inria Conference Center in Rennes, 263 Av. Général Leclerc, 35000 Rennes. We recommend that you stay in the downtown area, the Inria Conference Center is easily reached by public transport from the downtown area (20-30 minutes). Follow this [link](https://www.tourisme-rennes.com/en/) for more information about the city, and touristic attractions.
+
         <!-- ![Metro line map](transport-1.png) -->
         <iframe src="https://www.google.com/maps/d/embed?mid=10CxtQJrgPh6ub9aa-vdRq7UJ0x1oo24&ehbc=2E312F" width="640" height="480" style="border:none;"></iframe>
+
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: convention-center
+    content:
+      title: "Inria Rennes Convention Center"
+      text: |-
+        ![Inria Rennes Convention Center](CentreInriaRennes.png)
+        The Inria Convention Center is located in the Beaulieu Campus Area. You can reach the campus with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk) or with the bike system (see section *Public transportation* below).
+ 
+        ![Map](map.png)
+
+        {{% callout warning %}}
+        metro line B service is currently discontinued and will likely still be discontinued during the period of the conference.
+        {{% /callout %}}
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: join-online
+    content:
+      title: "Join online"
+      text: |-
+        All tutorials and sessions will be available to all participants, joining online or in-person. We will use [Webex](https://www.webex.com/) to host the presentations online. Although joining with your favorite internet browser is possible, we recommend that you use the [Webex application](https://www.webex.com/downloads.html).
+
+        On Wednesday June 19th, we invite you to join from 12:30 on [Gather Town](https://app.gather.town/app/68IpnNyCP3bYfNrF/ACM-REP-2024) to meet between online and onsite participants as well as members of the steering and organizing committee.
+
+        Please visit the [Agenda page](https://acm-rep.github.io/2024/agenda/) to get all the online access links.
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: moving-around
+    content:
+      title: "Public transportation"
+      text: |-
+
+        Moving around in Rennes using the public transportation or bike system
+        is a good option. You'll find all the info on [the bus company](https://www.star.fr) - translation available at the bottom of the page.
+
+        In short:
+
+        - 1 single trip is 1.70€ (1h availability). You can hop on a bus and pay
+        using [a credit
+        card](https://www.star.fr/titres-et-tarifs/valider-par-carte-bancaire)
+        (CB/Visa/MasterCard are accepted) - no app required !
+        Buying tickets is also possible, you can refer to the [dedicated page](https://www.star.fr/titres-et-tarifs/trouver-mon-tarif) to see all the options.
+
+        - Biking is also a good option. Rennes offers many dedicated lanes to
+        bike. You can grab a bike in one of the docking stations and pay with your
+        credit card (CB/Visa/MasterCad). Base price is 1€ for 1h. More info on the [dedicated page](https://www.star.fr/se-deplacer/velo/velo-libre-service#lc:/bss).
+        
+        - Link to the [interactive map](https://www.star.fr/se-deplacer/plan-dynamique#lc:/bss)
     design:
       columns: '2'
 
@@ -47,49 +103,6 @@ sections:
         - [Hôtel Lanjuinais](http://hotel-lanjuinais.com/)
         - [Hôtel Restaurant Le Victoria](http://www.hotel-levictoria.com/)
         - [Hôtel Le Sévigné, Rennes Gare](http://www.hotellesevigne.fr/)
-    design:
-      columns: '2'
-
-  - block: markdown
-    id: convention-center
-    content:
-      title: "Inria Rennes Convention Center"
-      text: |-
-        ![Inria Rennes Convention Center](CentreInriaRennes.png)
-        The ACM REP Conference will take place in the Inria Convention Center, in the Beaulieu Campus Area. You can reach the campus or with ~~the metro line B (Beaulieu Université station +15 mins walk to reach the convention center) or~~ with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk).
-
-        ![Map](map.png)
-
-        {{% callout warning %}}
-        metro line B service is currently discontinued and will likely still be discontinued during the period of the conference.
-        {{% /callout %}}
-    design:
-      columns: '2'
-
-  - block: markdown
-    id: moving-around
-    content:
-      title: "Public transportation"
-      text: |-
-
-        Moving around in Rennes using the public transportation or bike system
-        is a good option.  You'll find all the info on [the bus company](https://www.star.fr) - translation available at the bottom of the page.
-
-        In short:
-
-        - 1 single trip is 1.70€ (1h availability). You can hop on a bus and pay
-        using [a credit
-        card](https://www.star.fr/titres-et-tarifs/valider-par-carte-bancaire)
-        (CB/Visa/MasterCard are accepted) - no app required !
-        Buying tickets is also possible, you can refer to the [dedicated page](https://www.star.fr/titres-et-tarifs/trouver-mon-tarif) to see all the options.
-
-        - Biking is also a good option. Rennes offers many dedicated lanes to
-        bike. You can grab a bike in one of the docking stations and pay with your
-        credit card (CB/Visa/MasterCad). Base price is 1€ for 1h. More info on the [dedicated page](https://www.star.fr/se-deplacer/velo/velo-libre-service#lc:/bss).
-        
-        - Link to the [interactive map](https://www.star.fr/se-deplacer/plan-dynamique#lc:/bss)
-
-
     design:
       columns: '2'
 ---
