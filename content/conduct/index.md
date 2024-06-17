@@ -52,5 +52,6 @@ Contact: [acmrep24-info-group@ucsc.edu](mailto:acmrep24-info-group@ucsc.edu)
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
 
 Please also review:  
-- [ACM Privacy Policy](https://www.acm.org/privacy-policy)  
-- [Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)  
+- [ACM Privacy Policy](https://www.acm.org/privacy-policy)
+- [Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+- [ACM REP Diversity and Inclusiion statement](https://acm-rep.github.io/2024/diversity/)
