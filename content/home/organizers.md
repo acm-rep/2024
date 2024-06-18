@@ -33,6 +33,10 @@ Matthieu Simonin (Inria)
 Anne-Cécile Orgerie (CNRS)  
 Edith Blin (Inria)  
 Armelle Mozziconacci (CNRS)
+Alexandre Pron (Inria)
+Boris Clenet (Inria)
+Melvin Selim Atay (Inria)
+Frederic Bouvet (Inria)
 
 ### Proceedings
 Philippe Bonnet (University of Copenhagen)  
