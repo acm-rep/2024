@@ -29,10 +29,10 @@ groups to contact us.
 
 
 # Important Dates
-<span style=color:blue;font-weight:bold>Registration open: <s>early May</s> mid-May</span>  
-<span style=color:blue;font-weight:bold>Early-bird registration close: <s>May 19</s> <s>May 31</s> June 8</span>  
-Registration close: <s>June 8</s> June 20
-Conference:  June 18-20, 2024  
+
+<span style=color:grey>Early-bird registration close: <s>May 19</s> <s>May 31</s> June 8</span>  
+<span style=color:blue;font-weight:bold>Registration close: <s>June 8</s> June 20</span>
+<span style=blue;font-weight:bold>Conference:  June 18-20, 2024</span>  
 
 # Terms and conditions
 
