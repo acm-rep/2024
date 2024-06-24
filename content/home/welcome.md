@@ -42,8 +42,6 @@ advanced:
 {{% cta cta_link="/2024/agenda" cta_text="Agenda" %}}
 {{% cta cta_link="/2024/keynotes" cta_text="Keynote Speakers" %}}
 
-{{% cta cta_text="Register" cta_link="https://web.cvent.com/event/213c1224-ee5a-4cff-aff0-ef4b0df0441c/summary" cta_new_tab="false" %}}
-
 <div style="width: 100%;  background-color: rgba(255, 255, 255, 0.1); height:300px; text-align: center">
 
 Sponsors
