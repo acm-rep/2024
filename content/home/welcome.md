@@ -37,10 +37,9 @@ advanced:
 
 </style>
 
-
-{{% cta cta_link="/2024/posters" cta_text="Poster Abstracts" %}}
+{{% cta cta_link="https://dl.acm.org/doi/proceedings/10.1145/3641525" cta_text="Proceedings" %}}
 {{% cta cta_link="/2024/agenda" cta_text="Agenda" %}}
-{{% cta cta_link="/2024/keynotes" cta_text="Keynote Speakers" %}}
+{{% cta cta_link="/2024/posters" cta_text="Poster Abstracts" %}}
 
 <div style="width: 100%;  background-color: rgba(255, 255, 255, 0.1); height:300px; text-align: center">
 

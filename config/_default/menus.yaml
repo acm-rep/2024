@@ -63,10 +63,10 @@ main:
     parent: program
     url: posters
     weight: 30
-#  - name: Proceedings
-#    parent: program
-#    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
-#    weight: 30
+  - name: Proceedings
+    parent: program
+    url: https://dl.acm.org/doi/proceedings/10.1145/3641525
+    weight: 40
 #  - name: Conference Summary
 #    parent: program
 #    url: https://acm-rep.github.io/post/20230714-acmrep23/
