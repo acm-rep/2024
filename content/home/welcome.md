@@ -37,6 +37,7 @@ advanced:
 
 </style>
 
+{{% cta cta_link="https://www.canal-u.tv/chaines/inria/rubrique/237455/type-production/2" cta_text="Videos" %}}
 {{% cta cta_link="https://dl.acm.org/doi/proceedings/10.1145/3641525" cta_text="Proceedings" %}}
 {{% cta cta_link="/2024/agenda" cta_text="Agenda" %}}
 {{% cta cta_link="/2024/posters" cta_text="Poster Abstracts" %}}
